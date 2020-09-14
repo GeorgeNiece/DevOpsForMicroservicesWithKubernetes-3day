@@ -1,6 +1,6 @@
 # DevOps for Microservices with Kubernetes
 
-Content [Content](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/content/LAB01-Foundation.pdf
+Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/content/LAB01-Foundation.pdf)
 
 ## Day 1
 
@@ -27,9 +27,9 @@ Content [Content](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKuber
 
 02 •  Prometheus Monitoring [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB10-Prometheus.pdf).
 
-03 • Istio Service Mesh [here]((https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB11-Istio.pdf).
+03 • Istio Service Mesh [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB11-Istio.pdf).
 
-04 • Jaeger Operator [here]((https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB12-Jaeger-Operator.pdf).
+04 • Jaeger Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB12-Jaeger-Operator.pdf).
 
 
 
