@@ -25,11 +25,11 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 01 •  Operator SDK and Helm [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB09-OperatorSDK-Helm.pdf).
 
-02 •  Prometheus Monitoring [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB10-Prometheus.pdf).
+<!--02 •  Prometheus Monitoring [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB10-Prometheus.pdf).
 
 03 • Istio Service Mesh [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB11-Istio.pdf).
-
-04 • Jaeger Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB12-Jaeger-Operator.pdf).
+-->
+02 • Jaeger Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/labs/LAB12-Jaeger-Operator.pdf).
 
 
 
