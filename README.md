@@ -8,28 +8,32 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 02  Working With Kind: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB02-WorkingWithKind.pdf)
 
-03 Air Gapped Kind: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB03-AirGappedKIND.pdf)
+03 Air Gapped Kind: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB03-AirGappedKIND.pdf).
 
-04 K3d Getting Started: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB04-K3D-GettingStarted.pdf)
+04 K3d Getting Started: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB04-K3D-GettingStarted.pdf).
 
 ## Day 2
 01  K3d and Persistent Volume [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB06-K3D-PVC.labf).
 
-02  K3d, Helm and Rancher [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB05-K3D-Rancher.pdf)
+02  K3d, Helm and Rancher [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB05-K3D-Rancher.pdf).
 
 03  KPT Getting Started [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB07-KPT-GettingStarted.pdf).
 
-04  KPT and Helm [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB08-KPT-Helm.pdf)
+04  KPT and Helm [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB08-KPT-Helm.pdf).
 
 ## Day 3
 
-01  Operator SDK and Helm [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB09-OperatorSDK-Helm.pdf).
+01 Building a Helm Chart [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LABXX-Helm-Chart-Build.pdf).
 
-<!--02  Prometheus Monitoring [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB10-Prometheus.pdf).
+02 Operator SDK and Helm [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB09-OperatorSDK-Helm.pdf).
 
-03 Istio Service Mesh [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB11-Istio.pdf).
--->
-02 Jaeger Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB12-Jaeger-Operator.pdf).
+03 Ingress and k3d [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LABXX-K3D-SimpleIngress.pdf).
+
+04 NodePort and k3d [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LABXX-K3D-SimpleNodePort.pdf).
+
+05 Prometheus Setup in k3d [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB10-Prometheus.pdf).
+
+06 Jaeger Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB12-Jaeger-Operator.pdf).
 
 
 
