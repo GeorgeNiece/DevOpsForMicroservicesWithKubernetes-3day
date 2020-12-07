@@ -34,6 +34,6 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 05 Prometheus Setup in k3d [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB10-Prometheus.pdf).
 
 06 Jaeger Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB12-Jaeger-Operator.pdf).
-
+ 
 
 
