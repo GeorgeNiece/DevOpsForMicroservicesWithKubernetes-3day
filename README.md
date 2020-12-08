@@ -13,7 +13,7 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 04 K3d Getting Started: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB04-K3D-GettingStarted.pdf).
 
 ## Day 2
-01  K3d and Persistent Volume [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB06-K3D-PVC.labf).
+01  K3d and Persistent Volume [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB06-K3D-PVC.pdf).
 
 02  K3d, Helm and Rancher [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB05-K3D-Rancher.pdf).
 
