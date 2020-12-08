@@ -17,7 +17,7 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 02  K3d, Helm and Rancher [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB06-K3D-Rancher.pdf).
 
-03  KPT Getting Started [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB07-KPT-GettingStarted.pdf).
+03  KPT Getting Started [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB07-KPT-Getting-Started.pdf).
 
 04  KPT and Helm [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB08-KPT-Helm.pdf).
 
