@@ -34,6 +34,8 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 05 Prometheus Setup in k3d [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB13-Prometheus.pdf).
 
 06 Jaeger Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB14-Jaeger-Operator.pdf).
- 
 
+07 Prometheus Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB15-Prometheus-Operator-K3D.pdf).
+ 
+(Optional) Additional KPT Experiements [here](https://github.com/GoogleContainerTools/kpt/tree/master/package-examples).
 
