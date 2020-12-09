@@ -25,7 +25,7 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 05 Building a Helm Chart: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB09-Helm-Chart-Build.pdf).
 
-06 Building a Helm Chart: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB09-Helm-Chart-Build.pdf).
+06 Working with Operator SDK: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB10-OperatorSDK-Helm.pdf).
 
 ## Day 3
 
