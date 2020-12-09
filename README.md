@@ -37,5 +37,7 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 07 Prometheus Operator [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB15-Prometheus-Operator-K3D.pdf).
  
-(Optional) Additional KPT Experiements [here](https://github.com/GoogleContainerTools/kpt/tree/master/package-examples).
+(Optional) Additional KPT Experiments [here](https://github.com/GoogleContainerTools/kpt/tree/master/package-examples).
+
+(Optional) Skaffold Experiments [here](https://github.com/GoogleContainerTools/skaffold/tree/master/examples).
 
