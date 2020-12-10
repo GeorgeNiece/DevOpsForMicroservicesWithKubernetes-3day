@@ -41,6 +41,8 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
  
 06 Istio and k3d: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB16-Istio-K3D.pdf).
 
+07 Skaffold and k3d: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB17-Skaffold-K3D.pdf).
+
 (Optional) Additional KPT Experiments: [here](https://github.com/GoogleContainerTools/kpt/tree/master/package-examples).
 
 (Optional) Skaffold Experiments: [here](https://github.com/GoogleContainerTools/skaffold/tree/master/examples).
