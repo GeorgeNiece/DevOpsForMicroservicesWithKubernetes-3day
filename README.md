@@ -10,7 +10,7 @@ Our Presentation for the Session [Content Slides](https://github.com/GeorgeNiece
 
 03 Air Gapped Kind: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB03-AirGappedKIND.pdf).
 
-04 Chaos Experiments: [here](https://katacoda.com/chaostoolkit/courses/01-chaostoolkit-getting-started/chaostoolkit-install).
+04 Chaos Experiments: [here](https://learning.oreilly.com/interactive/?classification=content-scenario&query=chaos).
 
 05 K3d Getting Started: [here](https://github.com/GeorgeNiece/DevOpsForMicroservicesWithKubernetes-3day/blob/master/labs/LAB04-K3D-GettingStarted.pdf).
 
